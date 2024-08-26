@@ -6,6 +6,7 @@ https://github.com/ZakKemble/AVRDUDESS/releases/
 ![test](https://github.com/user-attachments/assets/0e31207b-250b-4e10-8668-248d51e8aaff)
 
 2- Now join the working USBasp to the one that needs firmware update using the ribbon cable.
+
 ![test1](https://github.com/user-attachments/assets/330ff896-8b96-4869-b427-3134a2993480)
 
 3- Plug the working USBasp board to the computer’s usb port
