@@ -23,6 +23,7 @@ https://github.com/ZakKemble/AVRDUDESS/releases/
   C:\Users\'User Name'\Desktop\avrdude - USBasp\usbasp.2011-05-28\bin\firmware\usbasp.atmega8.2011-05-28.hex
 
 6- Select Read to write the current firmware to location on your PC (this is to ensure that the method is working)
+
 7- Select Write to overwrite the firmware with the new one.
 
 ![test21](https://github.com/user-attachments/assets/0bea233e-3521-4b5c-af7b-8fcd9180a74d)
